@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Best Valentina;
+  src: url(../fonts/Best_Valentina_TTF.ttf);
+}
+
+.title {
+  font-family: "Best Valentina";
+}
